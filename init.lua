@@ -1,0 +1,2 @@
+require("guga")
+print("hello")
